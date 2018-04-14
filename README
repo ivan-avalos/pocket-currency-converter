@@ -1,0 +1,26 @@
+# Pocket Currency Converter
+
+An easy to use currency converter for any occasion. Written in Python and distributed
+under the GPLv3 license.
+
+## Dependencies
+
+To install all the dependencies run the following command:
+
+```bash
+sudo pip3 install htmldom
+```
+
+## Build and install
+
+```bash
+./configure
+make
+sudo make install
+```
+
+## Usage
+
+```bash
+pcc.py --help
+```
